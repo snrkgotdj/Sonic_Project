@@ -1,0 +1,14 @@
+.vs/
+Debug/Resource/Boss/BossExplosion.bmp
+Debug/Resource/
+*.ilk
+*.pdb
+*.log
+*.obj
+*.tlog
+*.bmp
+*.png
+x64/Debug/Resource/
+SonicProject/x64/
+SonicProject/Debug/
+x64/
